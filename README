@@ -1,0 +1,8 @@
+our project is to get the price per month and the address and link of the apartment for rent 
+we use beautifulsoup to scrape the data of prices and links,addresses for each apartment
+then we create a google form and put three answer (short)
+the questions include price and address and link for each department 
+the we use selenium to solve the question by put the data that we get bye using beautifulsoup
+finally when we put all data on google form then we create a google sheet from the responses of google form
+
+ 
